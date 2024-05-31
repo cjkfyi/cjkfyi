@@ -14,8 +14,8 @@
 ---
 
 - I’m looking to collaborate on... 💞️
-  - nothing, everything is for myself so far.
+  - nothing, everything is for myself. (so far)
 
 <!---
-~ Simply took the default template and rearranged it, for now. ~
+~      Simply took the default template and rearranged it, for now :D
 --->
